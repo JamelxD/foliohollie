@@ -1,2 +1,2 @@
-# foliohollie
+# foliofriend
 Portfolio for friend
